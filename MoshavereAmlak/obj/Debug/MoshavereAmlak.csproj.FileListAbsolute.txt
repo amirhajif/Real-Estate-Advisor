@@ -1,0 +1,15 @@
+D:\Projects\MoshavereAmlak\MoshavereAmlak\bin\Debug\MoshavereAmlak.exe.config
+D:\Projects\MoshavereAmlak\MoshavereAmlak\bin\Debug\MoshavereAmlak.exe
+D:\Projects\MoshavereAmlak\MoshavereAmlak\bin\Debug\MoshavereAmlak.pdb
+D:\Projects\MoshavereAmlak\MoshavereAmlak\obj\Debug\MoshavereAmlak.csprojAssemblyReference.cache
+D:\Projects\MoshavereAmlak\MoshavereAmlak\obj\Debug\MoshavereAmlak.AddMelk.resources
+D:\Projects\MoshavereAmlak\MoshavereAmlak\obj\Debug\MoshavereAmlak.Form1.resources
+D:\Projects\MoshavereAmlak\MoshavereAmlak\obj\Debug\MoshavereAmlak.Properties.Resources.resources
+D:\Projects\MoshavereAmlak\MoshavereAmlak\obj\Debug\MoshavereAmlak.csproj.GenerateResource.cache
+D:\Projects\MoshavereAmlak\MoshavereAmlak\obj\Debug\MoshavereAmlak.csproj.CoreCompileInputs.cache
+D:\Projects\MoshavereAmlak\MoshavereAmlak\obj\Debug\MoshavereAmlak.exe
+D:\Projects\MoshavereAmlak\MoshavereAmlak\obj\Debug\MoshavereAmlak.pdb
+D:\Projects\MoshavereAmlak\MoshavereAmlak\obj\Debug\MoshavereAmlak.SearchMelk.resources
+D:\Projects\MoshavereAmlak\MoshavereAmlak\obj\Debug\MoshavereAmlak.GhararDad.resources
+D:\Projects\MoshavereAmlak\MoshavereAmlak\obj\Debug\MoshavereAmlak.ShowDeals.resources
+D:\Projects\MoshavereAmlak\MoshavereAmlak\obj\Debug\MoshavereAmlak.ShowMelk.resources
